@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J101,PinSocket_1x03_P2.54mm_Vertical,1,Sound Sensor,
+J102,PinSocket_1x03_P2.54mm_Vertical,1,Light Sensor,
+J103,TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal,1,power,
+U101,Aosong_DHT11_5.5x12.0_P2.54mm,1,DHT11,
+U102,MCU_Seeed_ESP32C3,1,XIAO-RP2040-DIP,
